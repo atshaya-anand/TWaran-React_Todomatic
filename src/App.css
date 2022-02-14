@@ -14,3 +14,14 @@
 .header {
   padding-top:50px;
 }
+
+.list{
+  max-width: 450px;
+  padding-left: 50px;
+  display: table;
+  margin: 20px auto;
+}
+
+.bn{
+  margin-left: 30px;
+}
